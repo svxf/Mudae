@@ -1,0 +1,19 @@
+{
+  "name": "mudae",
+  "version": "1.0.0",
+  "description": "a simple recreation of the discord bot mudae, made in 3 hours",
+  "main": "index.js",
+  "author": "svxf",
+  "license": "MIT",
+  "dependencies": {
+    "@types/csv-stringify": "^3.1.0",
+    "csv-parser": "^3.0.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.8.0",
+    "eslint": "9.x",
+    "globals": "^15.8.0"
+  }
+}

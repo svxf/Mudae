@@ -17,6 +17,7 @@ and yes im storing user data in a csv file dont judge
 
 <h3>- you can also make an account (/register) and admins can reset your account</h3>
 <h3>- also you can do /update (pages) do run the scraper to update the database list, it might get you ratelimited by MAL because its going through a bunch of pages but yeah 👍 </h3>
+
 ---
 
 and yeah theres more stuff but yknow thats mainly it
